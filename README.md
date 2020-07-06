@@ -16,7 +16,7 @@ Some of them include:
 - A Fight command, that turns discord into a Turnbased-Strategy Game! (To test my limits of optimization and scaling)
 - A Visual interface (in order to learn integration of more complex libraries, in this case "Qode" and "NodeGUI")
 - A Play command, for playing Music from Youtube (More in-depth API integration and learning of Audio-codecs)
-(Upcoming) - A interactive Worldmap that allows for traveling (in order to understand Vector-Math and Pathfinding)
+- (Upcoming) A interactive Worldmap that allows for traveling (in order to understand Vector-Math and Pathfinding)
 
 I currently also accept alot of requests, just to see how good i'm able to handle different scenarios, so some of the commands
 the bot is able to use, are from these said requests. They sometimes maybe won't make the most sense, but as long as i'm learning
