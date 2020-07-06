@@ -22,4 +22,6 @@ I currently also accept alot of requests, just to see how good i'm able to handl
 the bot is able to use, are from these said requests. They sometimes maybe won't make the most sense, but as long as i'm learning
 i'm fine with that.
 
+You can also try the features of this bot with this invite Link to a Testserver: https://discord.gg/37QBtuA
+
 Feel free to hit me up, if you have any questions!
