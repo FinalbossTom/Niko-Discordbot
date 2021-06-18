@@ -1,5 +1,8 @@
 # A Discord bot built from scratch, using Discord.js
 
+The developement for this bot has been stopped. I'm currently working on a more up-to-date version with the same features,
+as the current codebase is simply not extendable.
+
 (You are not able to simply clone this repo and start the bot. There are a bunch of parts missing, that i am not able to upload.)
 
 This is a Bot for the VoIP app "Discord", i built it from ground up myself, in order to learn Javascript and Node.js
