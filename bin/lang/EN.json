@@ -1,0 +1,43 @@
+{
+
+  "generic":
+  {
+    "error":{
+      "genericFail": ["Something went wrong...",
+                      "Huh?\nI'm not sure, what happened, but something surely went wrong..."],
+
+      "noTranslation": ["Sorry, but i haven't found a fitting response for this... Please inform *Tom* about this."],
+
+      "unknownCommand": ["Sorry, but i don't seem to remember a command, that is named that way...",
+                         "I don't think i know a command with that name... Sorry!",
+                         "I am unsure what you mean by that... could you try something different?"],
+
+      "guildCommandInDM": ["Sorry, but you can't use that Command in a Direct Message.",
+                           "You can only use that Command in a Server!"]
+    }
+  },
+
+  "test":
+  {
+
+    "description": "A command used for testing things. Doesn't do much.",
+
+    "success": ["You successfully tested -$-msg.mentions.users.first()-$-!",
+                "-$-msg.mentions.users.first()-$- has been successfully tested!",
+                "Testing -$-msg.mentions.users.first()-$- has been successfull!"],
+
+    "error":{
+      "noTag": ["You forgot to tell me, who you want to test!", "Could you please also tell me, who you want to test?"],
+      "selfTag": ["Sorry, but you can't test yourself!", "Testing yourself doesn't seem that practical, does it?"]
+    }
+  },
+
+  "boop":
+  {
+    "description": "This is a Command that only exists in English.",
+
+    "success": ["English Text."],
+
+    "error":{}
+  }
+}

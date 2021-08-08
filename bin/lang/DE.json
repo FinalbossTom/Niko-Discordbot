@@ -1,0 +1,27 @@
+{
+
+  "generic":
+  {
+    "error":{
+      "noTranslation": ["*Tut mir leid, aber dieser Teil ist noch nicht übersetzt...*\n", "*Sorry, aber ich weiß noch nicht wie dieser Teil übersetzt wird...*\n"],
+      "genericFail": ["Irgendetwas ist schiefgegangen...","Huch?\nHier ist irgendwas falsch gelaufen..."]
+    }
+  },
+
+
+  "test":
+  {
+
+    "description": "Dies ist ein Testbefehl, der nicht sehr viel macht.",
+
+    "success": ["Du hast erfolgreich -$-msg.mentions.users.first()-$- getestet!",
+                "-$-msg.mentions.users.first()-$- wurde erfolgreich von dir getestet!",
+                "Das Testen von -$-msg.mentions.users.first()-$- war erfolgreich!"],
+
+    "error":{
+      "noTag": ["Du hast vergessen mir zu sagen, wen du meinst!", "Könntest du mir verraten wen du denn meinst...?"],
+      "selfTag": ["Du kannst dich nicht selbst nennen!", "Dich selbst zu testen hat nicht wirklich viel Sinn, meinst du nicht?"]
+    }
+  }
+
+}
